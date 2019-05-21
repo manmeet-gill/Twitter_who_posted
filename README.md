@@ -30,15 +30,21 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 
 # Steps for code preparation
 *import basic requirements
+
 *initialize twitter keys and api
+
 *get the userdata from twitter api providing the twitter handle
+
 *used tweet miner code (miner.ipynb) to get tweet texts
+
 *Create the training data
     1. Mine first person's tweets
     2. Create a tweet dataframe
     3. Mine Second person's tweets
     4. Append results to our dataframe
+    
 * find ngrams from text using tfidvectorizer
+
 * Processing the tweets and building a model
     1. Vectorizing input text data.
     2. Intializing a model.
