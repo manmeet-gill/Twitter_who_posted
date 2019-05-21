@@ -23,21 +23,21 @@ pip install -r requirements.txt
 
 ## Built With
 Twitter - The web api package for social site Twitter
+
 sklearn - machine learning tools
+
 textacy - Used in Natural Language Processing(NLP) for data
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 # Steps for code preparation
-*import basic requirements
+* import basic requirements
 
-*initialize twitter keys and api
+* initialize twitter keys and api
 
-*get the userdata from twitter api providing the twitter handle
+* get the userdata from twitter api providing the twitter handle
 
-*used tweet miner code (miner.ipynb) to get tweet texts
+* used tweet miner code (miner.ipynb) to get tweet texts
 
-*Create the training data
+* Create the training data
     1. Mine first person's tweets
     2. Create a tweet dataframe
     3. Mine Second person's tweets
@@ -54,11 +54,14 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 
 
 # Authors
-Manmeet Gill (Initial work - Eleiken)
+## Manmeet Singh Gill 
+(Initial work - Eleiken)
+
 See also the list of contributors who participated in this project.
 
-License
+# License
+
 This project is  without a license, the default copyright laws apply, meaning that all rights are retained by the Owner to the source code and no one may reproduce, distribute, or create derivative works from this repository work.
 
-Acknowledgments
+## Acknowledgments
 some code help taken from elaiken
